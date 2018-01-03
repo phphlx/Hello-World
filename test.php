@@ -1,2 +1,2 @@
 <?php
-    echo "gaga";
+    echo "test.php";
