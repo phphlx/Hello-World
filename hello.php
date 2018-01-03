@@ -1,3 +1,3 @@
-<?php echo "Hello World!"
-\\n var_dump("gaga")
-var_dump("gaga")
+<?php
+  echo "Hello World!"
+  var_dump("gaga")
